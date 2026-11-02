@@ -1,0 +1,22 @@
+{
+  "wheel_id": 648,
+  "structure": "umbrella",
+  "slug": "mytoowoomba-com-151",
+  "project": "business-directory-toowoomba-myths-55f14da7cfe2fe04da153416dafc",
+  "parent_t1_ref": "mytoowoomba.com-005",
+  "node_role": "buffer",
+  "money_target": "mytoowoomba.com.au",
+  "primary_kw": "business directory toowoomba myths",
+  "intended_url": "https://sites-e470-2.web.app/business-directory-toowoomba-myths-55f14da7cfe2fe04da153416dafc/",
+  "tier": "T2",
+  "writeback_nonce": "4d3a30d71c6aaa5b",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/mytoowoomba.com-005/business-directory-toowoomba.html",
+      "anchor": "Business Directory Toowoomba: For Finding Local Services",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
